@@ -1,0 +1,9 @@
+{
+  "name": "aurora-root",
+  "private": true,
+  "scripts": {
+    "install": "cd ./teste && npm install",
+    "dev": "cd ./teste && npm run dev",
+    "start": "cd ./teste && npm start"
+  }
+}
