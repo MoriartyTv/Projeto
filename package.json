@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "aurora-control",
   "version": "0.1.0",
   "private": true,
@@ -21,5 +22,13 @@
     "@types/react-dom": "^18.2.7",
     "typescript": "^5.3.2",
     "vite": "^8.2.2"
+=======
+  "name": "aurora-root",
+  "private": true,
+  "scripts": {
+    "install": "cd ./teste && npm install",
+    "dev": "cd ./teste && npm run dev",
+    "start": "cd ./teste && npm start"
+>>>>>>> 14079af4abbb04b891c790e3dce2bd76371e5cea
   }
 }
